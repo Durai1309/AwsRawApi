@@ -20,6 +20,6 @@ It can list EC2 instances across all regions using AWS Signature Version 4 for a
 
 3. Set the project as the startup project.
 
-4.Run the API.
+4. Run the API.
 
-5.Access endpoints via browser , swagger or Postman
+5. Access endpoints via browser , swagger or Postman
